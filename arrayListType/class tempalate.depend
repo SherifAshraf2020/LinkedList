@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1717577358 source:c:\users\sherif\documents\code_blocks\class tempalate\main.cpp
+	<iostream>
+	<string>
+	"arrayListType.h"
+
+1717577094 c:\users\sherif\documents\code_blocks\class tempalate\include\arraylisttype.h
+	<iostream>
+	<string>
+	<cstdlib>
+
+1717577516 source:c:\users\sherif\documents\code_blocks\class tempalate\src\arraylisttype.cpp
+	<cassert>
+	<iostream>
+	"arrayListType.h"
+
+1717573758 source:c:\users\sherif\documents\code_blocks\dsa\arraylisttype\main.cpp
+	<iostream>
+	<string>
+	"arrayListType.h"
+
+1733679781 c:\users\sherif\documents\code_blocks\dsa\arraylisttype\include\arraylisttype.h
+	<iostream>
+	<string>
+	<cassert>
+	<cstdlib>
+	"arrayListType.h"
+
+1719471842 source:c:\users\sherif\documents\code_blocks\dsa\arraylisttype\src\arraylisttype.cpp
+	"arrayListType.h"
+
+1719471842 c:\users\sherif\documents\code_blocks\dsa\arraylisttype\src\arraylisttype.cpp
+	"arrayListType.h"
+

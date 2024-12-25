@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1720070933 source:c:\users\sherif\documents\code_blocks\dsa\headertrailerlinkedlist\main.cpp
+	<iostream>
+	"headerTrailerLinkedList.h"
+
+1734936473 c:\users\sherif\documents\code_blocks\dsa\headertrailerlinkedlist\include\headertrailerlinkedlist.h
+	<iostream>
+

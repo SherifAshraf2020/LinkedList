@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1719846994 source:c:\users\sherif\documents\code_blocks\dsa\doublylinkedlist\main.cpp
+	<iostream>
+	"doublyLinkedList.h"
+
+1734524468 c:\users\sherif\documents\code_blocks\dsa\doublylinkedlist\include\doublylinkedlist.h
+	<iostream>
+	<cassert>
+

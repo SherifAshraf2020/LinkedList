@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1719511919 source:c:\users\sherif\documents\code_blocks\dsa\linkedlist\main.cpp
+	<iostream>
+	"linkedListIterator.h"
+	"linkedListType.h"
+	"orderedLinkedList.h"
+
+1719505010 source:c:\users\sherif\documents\code_blocks\dsa\linkedlist\src\linkedlistiterator.cpp
+
+1719505010 c:\users\sherif\documents\code_blocks\dsa\linkedlist\include\linkedlistiterator.h
+	<iostream>
+	<string>
+	<cassert>
+	<cstdlib>
+
+1719505010 source:c:\users\sherif\documents\code_blocks\dsa\linkedlist\src\linkedlisttype.cpp
+
+1719511919 c:\users\sherif\documents\code_blocks\dsa\linkedlist\include\linkedlisttype.h
+	"linkedListIterator.h"
+	<iostream>
+	<string>
+	<cassert>
+	<cstdlib>
+
+1719505010 source:c:\users\sherif\documents\code_blocks\dsa\linkedlist\src\unorderedlinkedlist.cpp
+
+1719587083 c:\users\sherif\documents\code_blocks\dsa\linkedlist\include\orderedlinkedlist.h
+	<linkedListIterator.h>
+	<linkedListType.h>
+	<iostream>
+	<string>
+	<cassert>
+	<cstdlib>
+
