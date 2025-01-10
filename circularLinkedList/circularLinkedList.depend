@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1735881866 source:c:\users\sherif\documents\code_blocks\dsa\circularlinkedlist\main.cpp
+	<iostream>
+	"circularLinkedList.h"
+
+1735881688 c:\users\sherif\documents\code_blocks\dsa\circularlinkedlist\include\circularlinkedlist.h
+	<iostream>
+
